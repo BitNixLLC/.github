@@ -1,4 +1,4 @@
-# Welcome to BitNix
+![](https://cdn.us-east3.xelara.network/pub/2024/07/f7e1219d-2407-4005-82c3-b204e8b26cca/logo_new.png)
 
 ## About Us
 
